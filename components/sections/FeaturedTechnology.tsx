@@ -99,13 +99,6 @@ export default function FeaturedTechnology() {
               </a>
 
               <a
-                href="/field-agents-application"
-                className="inline-flex items-center justify-center gap-1.5 text-sm font-semibold text-soft-white bg-[#7A1E3A]/80 hover:bg-[#7A1E3A] border border-[#7A1E3A]/60 rounded-lg px-4 py-2 transition-colors duration-200"
-              >
-                Become an Agent
-              </a>
-
-              <a
                 href="/sentinel-x"
                 className="inline-flex items-center justify-center gap-1.5 text-sm font-semibold text-coral-red hover:text-white border border-coral-red/40 hover:border-white/40 rounded-lg px-4 py-2 transition-colors duration-200"
               >
