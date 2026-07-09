@@ -7,20 +7,19 @@ const partners = [
     name: 'Informiton Inc.',
     role: 'Technology Provider',
     country: 'USA',
-    initials: 'INF',
+    logo: '/informiton_logo.png',
   },
   {
     name: 'Prexea Technology Ltd',
     role: 'Program Lead — Nigeria',
     country: 'NG',
-    initials: 'PTL',
-    logo: '/Prexea_logo.png',
+    logo: '/Prexea_icon.png',
   },
   {
     name: 'Optimum Consult',
     role: 'Government Liaison & Field Coordination',
     country: 'NG',
-    initials: 'OPC',
+    logo: '/images/trusted-partners/Optimum_Consult_logo.jpeg',
   },
 ];
 
@@ -72,16 +71,7 @@ export default function SentinelPartners() {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: i * 0.1 }}
             >
-              {p.logo ? (
-                <img src={p.logo} alt={p.name} className="h-12 object-contain mb-4" />
-              ) : (
-                <div
-                  className="w-16 h-16 rounded-lg flex items-center justify-center text-white font-bold text-lg mb-4"
-                  style={{ backgroundColor: i === 0 ? '#0A2342' : '#7A1E3A' }}
-                >
-                  {p.initials}
-                </div>
-              )}
+              <img src={p.logo} alt={p.name} className="h-12 object-contain mb-4" />
               <h4 className="font-semibold text-sm mb-1" style={{ color: '#0A2342' }}>{p.name}</h4>
               <p className="text-gray-400 text-xs mb-2">{p.role}</p>
               <span
