@@ -4,8 +4,8 @@ import { motion } from 'framer-motion';
 import { CircleCheck as CheckCircle } from 'lucide-react';
 
 const impactItems = [
-  { title: 'Successful Pilot Deployment', detail: 'Kaduna and Kano States', image: 'https://images.pexels.com/photos/2933243/pexels-photo-2933243.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop' },
-  { title: 'Fall Armyworm Control', detail: 'Suppression of severe infestations', image: 'https://images.pexels.com/photos/1595104/pexels-photo-1595104.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop' },
+  { title: 'Successful Pilot Deployment', detail: 'Kaduna and Kano States', image: 'https://lh3.googleusercontent.com/d/1Tx4TsJU2sBsZjf7vk3GJn_pfsPW2990U=w1200' },
+  { title: 'Fall Armyworm Control', detail: 'Suppression of severe infestations', image: 'https://lh3.googleusercontent.com/d/1WL3hO_nKD87thUbA9f9qHdD36iYesPiO=w1200' },
   { title: 'Farmer Engagement', detail: 'Sensitization and onboarding programs', image: 'https://images.pexels.com/photos/3626579/pexels-photo-3626579.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop' },
   { title: 'Extension Support', detail: 'Field monitoring systems established', image: 'https://images.pexels.com/photos/7728086/pexels-photo-7728086.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop' },
   { title: 'Government Participation', detail: 'Stakeholder collaboration achieved', image: 'https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop' },
