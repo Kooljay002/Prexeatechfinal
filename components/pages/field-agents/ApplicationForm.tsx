@@ -349,6 +349,3 @@ export default function ApplicationForm() {
     </div>
   );
 }
-
-
-export default ApplicationForm
