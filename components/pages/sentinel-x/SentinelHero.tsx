@@ -85,6 +85,15 @@ export default function SentinelHero() {
             <ArrowRight className="w-4 h-4" />
           </a>
           <a
+            href="https://sentinel.maestromfb.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-2 px-7 py-3.5 text-sm font-semibold text-white rounded border border-white/30 hover:bg-white/10 transition-colors duration-300"
+            style={{ backgroundColor: 'rgba(91,140,81,0.3)' }}
+          >
+            Agents Login
+          </a>
+          <a
             href="#"
             className="inline-flex items-center justify-center gap-2 px-7 py-3.5 text-sm font-semibold text-white rounded border border-white/30 hover:bg-white/10 transition-colors duration-300"
           >

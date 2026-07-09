@@ -90,6 +90,15 @@ export default function FeaturedTechnology() {
               </Button>
 
               <a
+                href="https://sentinel.maestromfb.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-1.5 text-sm font-semibold text-soft-white bg-forest-green/80 hover:bg-forest-green border border-forest-green/60 rounded-lg px-4 py-2 transition-colors duration-200"
+              >
+                Agents Login
+              </a>
+
+              <a
                 href="/sentinel-x"
                 className="inline-flex items-center justify-center gap-1.5 text-sm font-semibold text-coral-red hover:text-white border border-coral-red/40 hover:border-white/40 rounded-lg px-4 py-2 transition-colors duration-200"
               >
