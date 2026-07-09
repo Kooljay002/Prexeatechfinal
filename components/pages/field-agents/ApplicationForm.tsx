@@ -228,7 +228,7 @@ export default function ApplicationForm() {
       <div className="max-w-3xl mx-auto px-4 py-10">
         {/* Logo + Header */}
         <div className="text-center mb-8">
-          <img src="/Prexea_logo.png" alt="Prexea Technology Limited" className="h-14 mx-auto mb-5 object-contain" />
+          <img src="/Prexea_logo2.png" alt="Prexea Technology Limited" className="h-14 mx-auto mb-5 object-contain" />
           <h1 className="text-2xl sm:text-3xl font-extrabold text-[#0A2342] mb-3 uppercase tracking-wide">
             Field Agents Application Form
           </h1>
@@ -349,3 +349,6 @@ export default function ApplicationForm() {
     </div>
   );
 }
+
+
+export default ApplicationForm
