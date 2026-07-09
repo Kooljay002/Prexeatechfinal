@@ -94,13 +94,6 @@ export default function SentinelHero() {
             Agents Login
           </a>
           <a
-            href="/field-agents-application"
-            className="inline-flex items-center justify-center gap-2 px-7 py-3.5 text-sm font-semibold text-white rounded border border-white/30 hover:bg-white/10 transition-colors duration-300"
-            style={{ backgroundColor: 'rgba(122,30,58,0.6)' }}
-          >
-            Become an Agent
-          </a>
-          <a
             href="#"
             className="inline-flex items-center justify-center gap-2 px-7 py-3.5 text-sm font-semibold text-white rounded border border-white/30 hover:bg-white/10 transition-colors duration-300"
           >
