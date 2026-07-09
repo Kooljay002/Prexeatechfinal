@@ -75,7 +75,7 @@ export default function SentinelCaseStudy() {
             transition={{ duration: 0.8 }}
           >
             <img
-              src="https://images.pexels.com/photos/7469491/pexels-photo-7469491.jpeg?auto=compress&cs=tinysrgb&w=900&h=506&fit=crop"
+              src="https://lh3.googleusercontent.com/d/1WL3hO_nKD87thUbA9f9qHdD36iYesPiO=w1200"
               alt="Before Sentinel-X — infested field"
               className="w-full h-full object-cover"
             />
@@ -95,7 +95,7 @@ export default function SentinelCaseStudy() {
             transition={{ duration: 0.8, delay: 0.1 }}
           >
             <img
-              src="https://images.pexels.com/photos/1595104/pexels-photo-1595104.jpeg?auto=compress&cs=tinysrgb&w=900&h=506&fit=crop"
+              src="https://lh3.googleusercontent.com/d/1WL3hO_nKD87thUbA9f9qHdD36iYesPiO=w1200"
               alt="After Sentinel-X — healthy recovery"
               className="w-full h-full object-cover"
             />
